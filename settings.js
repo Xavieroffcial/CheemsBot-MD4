@@ -37,23 +37,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285657043989'] //ur owner number
-global.ownername = "Yann" //ur owner name
+global.vcardowner = ['6283182655954'] //ur owner number
+global.ownername = "Rila" //ur owner name
 global.ytname = "YT: SKY OFC" //ur yt chanel name
 global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Bali, Jembrana, Negara" //ur location
 
 //bot bomdy 
-global.owner = ['6285657043989']
-global.ownertag = '6285657043989' //ur tag number
-global.botname = 'Yann' //ur bot name
+global.owner = ['6283182655954']
+global.ownertag = '6283182655954' //ur tag number
+global.botname = 'Rila Botz' //ur bot name
 global.linkz = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu" //ur website to be displayed
 global.botscript = 'https://youtu.be/k3QkeVdAMOs' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "😩" //ur theme emoji
-global.packname = "Sticker by Yanbotz" //ur sticker watermark packname
-global.author = "Yann" //ur sticker watermark author
+global.packname = "Sticker by Rilabotz" //ur sticker watermark packname
+global.author = "Rila" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -62,7 +62,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6285657043989'] //ur premium numbers
+global.premium = ['6283182655954'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
